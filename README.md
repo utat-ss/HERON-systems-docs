@@ -9,7 +9,7 @@ Not only do we want to be iterative in the way we design and function around thi
 We're using GitHub instead of GDrive for this because we want to be able to track revisions and progress. Even if you just make a minor change: update the date, document revision number, and go ahead and reupload the file!
 
 ## How to upload files
-It's certainly handy to have a local copy of this repo on your computer. That's to say - if you are familiar with GitHub (through the CLI or the Desktop Client), please clone it locally and remember to pull every once in a while. This way, you can edit a file, run `git add <filename>` `git commit -m "updated <filename> with <changes>`, and `git push`, and things will be up to date as they should be.
+It's certainly handy to have a local copy of this repo on your computer. That's to say - if you are familiar with GitHub (through the CLI or the Desktop Client), please clone it locally and remember to pull every once in a while. This way, you can edit a file, run `git add <filename>`, `git commit -m "updated <filename> with <changes>`, and `git push`, and things will be up to date as they should be.
 
 ### What if I don't understand GitHub?
 That's ok too! Go ahead and hit the green `Clone or Download` button in the top right, download the files as a .ZIP compression, and extract the file you need. Edit it as required, **_MAKE SURE YOU DO NOT CHANGE THE FILE NAME_**, and upload it using the `Upload Files` button, also in the top right.
