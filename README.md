@@ -1,7 +1,7 @@
 # Overview
 This repo is for documents organized by the systems team intended to aid the entirety of UTAT-SS with collaboration, planning, and gaining a systems-level understanding of the Satellite
 
-It will be used in an "agile", iterative way. We're going to be testing out different things as time goes on to see what actually works for the rest of the team.
+It will be used in an "agile", iterative way. We're going to be testing out different things as time goes on to see what actually works for the rest of the team. Please give us feedback about what is or isn't working!
 
 # Usage
 Not only do we want to be iterative in the way we design and function around this repo, we also intend it to help you be quick and iterative in your operations. As such, please try to keep it up to date.
@@ -22,4 +22,4 @@ Also, PLEASE use relevant commit messages! They help us track the history of the
 * Hosting Qual Checklists for each subsystem as word docs in qual-checklists/ 
 
 # Help us help you!
-For inquiries or suggestions, contact Dylan Vogel and Gabe Sher on Slack
+For inquiries or suggestions, contact Dylan Vogel and Gabe Sher on Slack. Again: we love feedback! <3
